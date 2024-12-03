@@ -1,4 +1,4 @@
-path: /Users/matt/Documents/School/CPSC393/MachineLearningFinalProject/dataset  # dataset root dir
+path: D:\Github\MachineLearningFinalProject\dataset # dataset root dir
 train: train  # train images (relative to 'path')
 val: valid    # val images (relative to 'path')
 test: test    # test images (relative to 'path')
