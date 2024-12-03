@@ -1,0 +1,31 @@
+path: /Users/matt/Documents/School/CPSC393/MachineLearningFinalProject/dataset  # dataset root dir
+train: train  # train images (relative to 'path')
+val: valid    # val images (relative to 'path')
+test: test    # test images (relative to 'path')
+
+names:
+  0: Bear
+  1: Deer
+  2: Elephant
+  3: Human
+  4: Leopard
+  5: Monkey
+  6: Raccoon
+  7: Tiger
+  8: WildBoar
+  9: bear
+  10: buffalo
+  11: bycicle
+  12: car
+  13: cat
+  14: cow
+  15: deer
+  16: dog
+  17: donkey
+  18: gaur
+  19: gaurd dog
+  20: goat
+  21: hen
+  22: otherentities
+  23: person
+  24: wolf
