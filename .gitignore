@@ -1,3 +1,6 @@
 venv/
 runs/
-dataset/
+dataset
+dataset_cls
+yolo_dataset
+YOLOv8
