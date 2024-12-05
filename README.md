@@ -10,5 +10,5 @@
 
 * Matt Favela: Data Collection, Cleaning, Model Architecture, Model Training
 * Kathy Dao: Data Analysis, Model Evaluation, Technical Report & Slideshows
-* Laymoni Morrison: Presentation (Analysis, Methods, Reflection)
+* Laymoni Morrison: Presentation & README (Analysis, Methods, Reflection)
 * Radhika Puri: Presentation
